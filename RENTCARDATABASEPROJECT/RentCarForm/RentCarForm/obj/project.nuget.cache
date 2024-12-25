@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECKm1SQntHVIV3WpV011Qaj9ayyzA6/tYwzPY9H+WVAIC/nPCzs1wIBR/y9hMy4sXwnvyZOUz82lXXYDpuzZEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yigit\\source\\repos\\RentCarForm\\RentCarForm\\RentCarForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yigit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
